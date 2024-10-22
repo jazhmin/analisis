@@ -54,7 +54,7 @@ return rest=l**2
  function arearombo(dma,dme){
     return rest=(dma*dme)/2
      }
-     console.log(arearombo(8,8))
+     console.log(arearombo(2,8))
      
  //// ARAE DEL CIRCULO
  console.log ( "-------AREA DEL CIRCULO------")
